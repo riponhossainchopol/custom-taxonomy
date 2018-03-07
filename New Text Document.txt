@@ -1,7 +1,0 @@
-query monitor
-monstar widgets
-theme check
-underscore
-theme my login
-ultimate member plugin
-woocommerce social login
